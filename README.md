@@ -11,9 +11,8 @@ Analista de Desarrollo. Combino mi experiencia técnica en ecosistemas QA E2E, D
 
 | Proyecto | Descripción | Stack Principal | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Software Lifecycle Suite** | Ecosistema integral de CI/CD, automatización de pruebas e infraestructura como código. | Docker, Jenkins, Cypress, n8n | [Ver Repositorio](https://github.com/ibethlab/software-lifecycle-suite) |
-| **QA Automation Suite** | Arquitectura avanzada de pruebas E2E y validación de APIs sobre plataformas de entrenamiento. | Cypress, JavaScript, Node.js | [Ver Repositorio](#) |
-| **Gestión de Calidad & Gobierno** | Documentación de planes de prueba, matrices de trazabilidad y plantillas de aseguramiento. | Markdown, TuleApp / Jira | [Ver Repositorio](#) |
+| **Software Lifecycle Suite** | Ecosistema integral de automatización de pruebas (UI/API), integración continua (CI/CD) con DevSecOps Governance y orquestación de eventos externos. | Jenkins, Cypress, Docker, n8n, npm audit | [Ver Repositorio](https://github.com/ibethlab/software-lifecycle-suite) |
+| **QA Management Workflow** | Centro de gobierno de calidad. Documentación de planes de prueba, matrices de trazabilidad requisitos-a-tests, flujos Kanban y plantillas corporativas de Bug Reports. | GitHub Projects, Issues, Markdown | [Ver Repositorio](https://github.com/ibethlab/qa-management-workflow) |
 
 ### Contacto
 📸 **IG:** [@ibeth.lab](https://instagram.com/ibeth.lab) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **LinkedIn:** [Betsapa Molina](https://www.linkedin.com/in/betsapamolina?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;&nbsp;|&nbsp;&nbsp;
